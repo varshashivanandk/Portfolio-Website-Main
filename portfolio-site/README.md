@@ -46,31 +46,29 @@ This project showcases my background, skills, projects, certifications, and cont
 ---
 
 ##  Folder Structure
+```bash
 portfolio-site/
-│
+├── index.html
 ├── about.html
 ├── contact.html
-├── index.html
-│
-├── styles/
-│ └── main.css
-│
-├── images/
-│ ├── photovarsha.jpeg
-│ └── varshaphoto.jpeg
-│
-├── files/
-│ ├── AWS Summit India Online Certificate.pdf
-│ ├── Deloitte - Technology Job Simulation Certificate.pdf
-│ ├── Google Workspace Certification.pdf
-│ ├── SQL(basic) certificate.pdf
-│ ├── SQL(intermediate) certificate.pdf
-│ ├── STEP ENGLISH TEST RESULTS - VSK.pdf
-│ └── vskresume.pdf
-│
 ├── README.md
 │
-
+├── styles/
+│   └── main.css
+│
+├── images/
+│   ├── varshaphoto.jpeg
+│   └── photovarsha.jpeg
+│
+├── files/
+│   ├── AWS Summit India Online Certificate.pdf
+│   ├── Deloitte - Technology Job Simulation Certificate.pdf
+│   ├── Google Workspace Certification.pdf
+│   ├── SQL(basic) certificate.pdf
+│   ├── SQL(intermediate) certificate.pdf
+│   ├── STEP ENGLISH TEST RESULTS - VSK.pdf
+│   └── vskresume.pdf
+```
 
 ---
 
