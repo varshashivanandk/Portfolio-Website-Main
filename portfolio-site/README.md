@@ -25,13 +25,13 @@ This project showcases my background, skills, projects, certifications, and cont
 
 ##  Features
 
--  Fully responsive layout using **Flexbox** and **media queries**
--  Hamburger menu on small screens
--  Embedded PDFs (certificates)
--  Downloadable resume link
--  Hover animations on buttons and icons
--  Font Awesome icons (on contact page only)
--  Clean layout and color scheme (pink, red, violet)
+- - Fully responsive layout using **Flexbox** and **media queries**
+- - Hamburger menu on small screens
+- - Embedded PDFs (certificates)
+- - Downloadable resume link
+- - Hover animations on buttons and icons
+- - Font Awesome icons (on contact page only)
+- - Clean layout and color scheme (pink, red, violet)
 
 ---
 
@@ -46,7 +46,30 @@ This project showcases my background, skills, projects, certifications, and cont
 ---
 
 ##  Folder Structure
-<pre> ```bash portfolio-site/ ├── index.html ├── about.html ├── contact.html │ ├── styles/ │ └── main.css │ ├── images/ │ ├── photovarsha.jpeg │ └── varshaphoto.jpeg │ ├── files/ │ ├── AWS Summit India Online Certificate.pdf │ ├── Deloitte - Technology Job Simulation Certificate.pdf │ ├── Google Workspace Certification.pdf │ ├── SQL(basic) certificate.pdf │ ├── SQL(intermediate) certificate.pdf │ ├── STEP ENGLISH TEST RESULTS - VSK.pdf │ └── vskresume.pdf │ └── README.md ``` </pre>
+portfolio-site/
+│
+├── about.html
+├── contact.html
+├── index.html
+│
+├── styles/
+│ └── main.css
+│
+├── images/
+│ ├── photovarsha.jpeg
+│ └── varshaphoto.jpeg
+│
+├── files/
+│ ├── AWS Summit India Online Certificate.pdf
+│ ├── Deloitte - Technology Job Simulation Certificate.pdf
+│ ├── Google Workspace Certification.pdf
+│ ├── SQL(basic) certificate.pdf
+│ ├── SQL(intermediate) certificate.pdf
+│ ├── STEP ENGLISH TEST RESULTS - VSK.pdf
+│ └── vskresume.pdf
+│
+├── README.md
+│
 
 
 ---
