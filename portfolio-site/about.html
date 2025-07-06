@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About - Varsha Shivanand K</title>
+  <link rel="stylesheet" href="styles/main.css"/>
+  <script>
+    function toggleMenu() {
+      document.getElementById("navLinks").classList.toggle("active");
+    }
+  </script>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav>
+    <div class="nav-container">
+      <div class="logo">
+        Varsha <span>Shivanand K</span>
+      </div>
+      <div class="hamburger" onclick="toggleMenu()">☰</div>
+      <div class="links" id="navLinks">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#skills">Interests/Hobbies</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+    <div class="side-by-side">
+
+      <div class="card" id="about">
+        <div class="images">
+          <img src="images/photovarsha.jpeg" alt="Varsha's photo">
+        </div>        
+        <h1>About Me</h1>
+        <p>Hello! I'm <strong>Varsha Shivanand K</strong>, an enthusiastic learner currently pursuing the BS Degree in Data Science and Applications from IIT Madras and B.Tech in Computer Science and Engineering at RV University.</p><br>
+        <p>I’m passionate about full stack development and love building websites that are both beautiful and functional. I believe in continuous learning and enjoy solving problems through technology.</p>
+      </div>
+      <div class="card" id="education">
+        <h2>🎓 My Education</h2><br>
+        <table>
+          <tr>
+            <th>Sl. No.</th>
+            <th>Educational Qualification</th>
+            <th>Institution</th>
+            <th> Passing Year </th>
+            <th> Score </th>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>BTech in CSE</td>
+            <td>RV University</td>
+            <td> 2028 </td>
+            <td>9.50/10 CGPA </td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>BS in Data Science and Applications</td>
+            <td>IIT Madras</td>
+            <td> 2028 </td>
+            <td> 8.75/10 CGPA </td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>2nd PUC</td>
+            <td>Sindhi PU College - Karnataka PU Board</td>
+            <td> 2024 </td>
+            <td> 98.17% </td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>1st PUC</td>
+            <td>Mount Carmel PU College - Karnataka PU Board</td>
+            <td> 2023 </td>
+            <td> 98% </td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>10th Grade</td>
+            <td>Delhi Public School Bangalore North - CBSE</td>
+            <td> 2022 </td>
+            <td> 97.80% </td>
+          </tr>
+        </table>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Skills & Interests -->
+  <div id="skills" class="side-by-side">
+    <section class="card">
+      <h2>🛠️ Skills</h2>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Python, C, C++</li>
+        <li>Responsive Web Design</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>🎨 Interests / Hobbies</h2>
+      <ol>
+        <li>Reading Books</li>
+        <li>Singing</li>
+        <li>Dancing</li>
+      </ol>
+    </section>
+  </div>
+
+  <!-- Projects -->
+  <section id="projects" class="card">
+    <h2>📁 Projects</h2>
+    <ul>
+      <li>
+        <h3>🛒 ShopCart E-commerce Website</h3>
+        <p>
+          ShopCart is a frontend-only e-commerce website built using HTML, CSS, and JavaScript. It provides a complete shopping experience with:<br>
+          ~ Product filtering & homepage<br>
+          ~ Cart using localStorage<br>
+          ~ Contact page & user reviews<br><br>
+          <b>Link :</b>
+          <a href="https://github.com/varshashivanandk/ShopCart--E-COMMERCE-WEBSITE" target="_blank">
+            ShopCart GitHub Repo
+          </a>
+        </p>
+      </li><br><hr><br>
+      <li>
+        <h3>🕵️‍♀️ Crime Records Management System</h3>
+        <p>
+          A full-stack DBMS project using Node.js, Express, MySQL and HTML/CSS/JS.<br>
+          ~ Dashboard with CRUD features<br>
+          ~ User authentication<br>
+          ~ Evidence & court case management<br><br>
+          <b>Link :</b>
+          <a href="https://github.com/tharunm490/dbmsproject2" target="_blank">
+            Crime DBMS GitHub Repo
+          </a>
+        </p>
+      </li>
+    </ul><br>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 Varsha Shivanand K. All rights reserved.</p>
+  </footer>
+</body>
+</html>
