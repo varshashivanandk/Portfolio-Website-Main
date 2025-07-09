@@ -339,10 +339,17 @@ h1 {
   color: white;
 }
 
-.contact-details p a {
+.contact-details p a{
   color: rgb(240, 60, 60);
   text-decoration: none;
   font-weight: 500;
+}
+.white{
+  color: white;
+}
+p span{
+    color: rgb(240, 60, 60);
+
 }
 
 .contact-details i {
@@ -381,7 +388,6 @@ h1 {
   align-items: center;
   margin-bottom: 1rem;
     animation: fadeInLeft 1s ease-in-out;
-  justify-content: center;
   align-items: center;
 }
 
@@ -443,6 +449,6 @@ h1 {
   justify-content: center;
   margin-top: 20px;
 }
-#about p, .content h1{
+#about p, .content h1, #projects p{
   text-align: justify;
 }
