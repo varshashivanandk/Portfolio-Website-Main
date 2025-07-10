@@ -59,12 +59,12 @@ portfolio-site/
 ├── images/
 │   ├── varshaphoto.jpeg
 │   ├── photovarsha.jpeg
-│   ├── AWS Summit India Online Certificate.pdf
-│   ├── Deloitte - Technology Job Simulation Certificate.pdf
-│   ├── Google Certificate.pdf
-│   ├── SQL(basic) certificate.pdf
-│   ├── SQL(intermediate) certificate.pdf
-│   ├── STEP ENGLISH TEST RESULTS - VSK.pdf
+│   ├── AWS Summit India Online Certificate.jpg
+│   ├── Deloitte - Technology Job Simulation Certificate.jpg
+│   ├── Google Certificate.jpg
+│   ├── SQL(basic) certificate.jpg
+│   ├── SQL(intermediate) certificate.jpg
+│   ├── STEP ENGLISH TEST RESULTS - VSK.jpg
 │
 ├── files/
 │   └── vskresume.pdf
