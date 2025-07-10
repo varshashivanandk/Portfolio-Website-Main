@@ -9,11 +9,11 @@ This project showcases my background, skills, projects, certifications, and cont
 
 ### `index.html` – Home
 - Introduction & profile image
-- Embedded certificates (PDF)
+- Added certificates
 - Resume download
 
 ###  `about.html` – About
-- Bio, education table
+- Bio, education
 - Skills & hobbies
 - Projects with GitHub links
 
@@ -27,11 +27,11 @@ This project showcases my background, skills, projects, certifications, and cont
 
 - - Fully responsive layout using **Flexbox** and **media queries**
 - - Hamburger menu on small screens
-- - Embedded PDFs (certificates)
+- - Added JPGs (Certificates)
 - - Downloadable resume link
 - - Hover animations on buttons and icons
 - - Font Awesome icons (on contact page only)
-- - Clean layout and color scheme (pink, red, violet)
+- - Clean layout and color scheme (pink, red, etc)
 
 ---
 
@@ -58,16 +58,17 @@ portfolio-site/
 │
 ├── images/
 │   ├── varshaphoto.jpeg
-│   └── photovarsha.jpeg
-│
-├── files/
+│   ├── photovarsha.jpeg
 │   ├── AWS Summit India Online Certificate.pdf
 │   ├── Deloitte - Technology Job Simulation Certificate.pdf
-│   ├── Google Workspace Certification.pdf
+│   ├── Google Certificate.pdf
 │   ├── SQL(basic) certificate.pdf
 │   ├── SQL(intermediate) certificate.pdf
 │   ├── STEP ENGLISH TEST RESULTS - VSK.pdf
+│
+├── files/
 │   └── vskresume.pdf
+
 ```
 
 ---
