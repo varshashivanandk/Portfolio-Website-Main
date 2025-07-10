@@ -1,7 +1,7 @@
 # 🌐 Varsha Shivanand K - Portfolio Website
 
 Welcome to my personal **portfolio website**!  
-This project showcases my background, skills, projects, certifications, and contact information through a clean, responsive, multi-page site built with **HTML5** and **CSS3**.
+This project showcases my background, skills, projects, certifications, and contact information through a clean, responsive, multi-page site built with **HTML5**, **CSS3** and **JS**.
 
 ---
 
@@ -39,6 +39,7 @@ This project showcases my background, skills, projects, certifications, and cont
 
 - HTML5  
 - CSS3  
+- JS
 - Font Awesome (for icons)  
 - Google Fonts (Poppins)  
 - Media Queries (mobile-first responsive design)
